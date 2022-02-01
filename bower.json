@@ -32,9 +32,9 @@
     "angular": "~1.4.9",
     "moment": "~2.10.6",
     "font-awesome": "~4.7.0",
-    "datepicker-week-view": "angular/datepicker-week-view#^0.0.3"
+    "datepicker-week-view": "nicomendoza274/datepicker-week-view#^0.0.3"
   },
   "devDependencies": {
-    "datepicker-week-view": "^0.0.3"
+    "datepicker-week-view": "nicomendoza274/datepicker-week-view#^0.0.3"
   }
 }
