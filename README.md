@@ -1,13 +1,11 @@
 # Date Picker Week View
 
-[![Bower](https://img.shields.io/bower/v/datepicker-week-view.svg)](http://bower.io/search/?q=datepicker-week-view)
-
 ## Overview
 **Date Picker Week View** is a bundle of [AngularJS](http://angularjs.org) directives that allows you date pickers with
 week view.
 
 ## Demo
-**https://franclisjunior.github.io/datepicker-week-view**
+**https://nicomendoza274.github.io/datepicker-week-view/**
 
 ## Installation
 ### Bower
