@@ -116,7 +116,7 @@
                         value: dateAux.toDate(),
                         active: $scope.selectedDay && dateAux.isSame(moment($scope.selectedDay), 'day'),
                         disabled: dateAux.isBefore(moment($scope.minDate), 'day') || 
-                            dateAux.isAfter(moment($scope.maxDate)) || 
+                            dateAux.isAfter(moment($scope.maxDate), 'day') || 
                             $scope.invalidDates.indexOf(dateAux.format("YYYY-MM-DD")) !== -1
                     };
                     dates.push(date);
