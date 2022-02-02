@@ -10,7 +10,7 @@ week view.
 ## Installation
 ### Bower
 ````
-bower install nicomendoza274/datepicker-week-view#0.04
+bower install nicomendoza274/datepicker-week-view#0.0.5
 ````
 
 ### Insert dependency in angular module
